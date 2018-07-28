@@ -1,8 +1,8 @@
 # Shiny Essentials
 
-[JSM 2018](http://ww2.amstat.org/meetings/jsm/2018/)
-Sat, Jul 28, 8:00 AM - 4:00 PM 
-CC-East 11
+[JSM 2018](http://ww2.amstat.org/meetings/jsm/2018/)  
+Sat, Jul 28, 8:00 AM - 4:00 PM  
+CC-East 11  
 
 ## Workshop description
 
