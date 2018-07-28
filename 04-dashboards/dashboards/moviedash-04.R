@@ -2,7 +2,7 @@
 library(shiny)
 library(shinydashboard)
 library(glue)
-library(ggplot2)
+library(tidyverse)
 
 # Load data ---------------------------------------------------------
 load("data/movies.Rdata")
