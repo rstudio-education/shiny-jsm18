@@ -4,7 +4,7 @@
 Sat, Jul 28, 8:00 AM - 4:00 PM  
 CC-East 11  
 
-## Workshop description
+## Description
 
 Shiny is an R package that makes it easy to build interactive web apps straight 
 from R. You can host stand-alone apps on a webpage or embed them in R Markdown 
@@ -12,7 +12,15 @@ documents or build dashboards. This short course will introduce you to building
 web applications and dashboards with Shiny, reactive programming, and customizing 
 and deploying your apps for others to use. Please bring a laptop with you.
 
-## Workshop logistics
+## Slides
+
+0 - [Welcome](https://github.com/rstudio-education/shiny-jsm18/blob/master/00-welcome/00-welcome.pdf)
+1 - [Getting started](https://github.com/rstudio-education/shiny-jsm18/blob/master/01-getting-started/01-getting-started.pdf)
+2 - [Understanding reactivity](https://github.com/rstudio-education/shiny-jsm18/blob/master/02-understand-reactivity/02-understand-reactivity.pdf)
+3 - [Designing UI](https://github.com/rstudio-education/shiny-jsm18/tree/master/03-design-ui)
+4 - [Dashboards](https://github.com/rstudio-education/shiny-jsm18/blob/master/04-dashboards/04-dashboards.pdf)
+
+## Logistics
 
 ### Equipment
 
