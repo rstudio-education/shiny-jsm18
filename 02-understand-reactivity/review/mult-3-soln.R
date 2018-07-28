@@ -18,7 +18,7 @@ ui <- fluidPage(
 server <- function(input, output) {
   mult_3           <- function(x) { x * 3 }
   current_x        <- reactive({ mult_3(input$x) })
-  output$x_updated <- renderText({ current_x })
+  output$x_updated <- renderText({ current_x() })
 }
 
 # Create Shiny app object

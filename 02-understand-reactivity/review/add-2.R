@@ -1,3 +1,5 @@
+library(shiny)
+
 # UI ----
 ui <- fluidPage(
   titlePanel("Add 2"),
@@ -17,8 +19,8 @@ ui <- fluidPage(
 # Server ----
 server <- function(input, output) {
   add_2            <- function(x) { x + 2 }
-  current_x        <- reactive({ add_2(input$x) })
-  output$x_updated <- renderText({ current_x() })
+  current_x        <- add_2(input$x)
+  output$x_updated <- renderText({ current_x })
 }
 
 # Create Shiny app object
