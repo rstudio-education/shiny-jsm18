@@ -18,7 +18,14 @@ and deploying your apps for others to use. Please bring a laptop with you.
 1 - [Getting started](https://github.com/rstudio-education/shiny-jsm18/blob/master/01-getting-started/01-getting-started.pdf)  
 2 - [Understanding reactivity](https://github.com/rstudio-education/shiny-jsm18/blob/master/02-understand-reactivity/02-understand-reactivity.pdf)  
 3 - [Designing UI](https://github.com/rstudio-education/shiny-jsm18/tree/master/03-design-ui)  
-4 - [Dashboards](https://github.com/rstudio-education/shiny-jsm18/blob/master/04-dashboards/04-dashboards.pdf)  
+4 - [Dashboards](https://github.com/rstudio-education/shiny-jsm18/blob/master/04-dashboards/04-dashboards.pdf)
+
+## Additional resources
+
+- [Shiny Dev Center](http://shiny.rstudio.com/)
+- [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)
+- DataCamp: [Building Web Apps with Shiny](https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny)
+- For questions: [RStudio Community](https://community.rstudio.com/c/shiny)
 
 ## Logistics
 
